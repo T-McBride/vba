@@ -48,5 +48,5 @@ Public Function alphaSort(toSort As String) As String
   exit function
   LEH: 'Local error handler
   alphaSort ="Error"
-End Functiona
+End Function
 
