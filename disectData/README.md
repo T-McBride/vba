@@ -2,7 +2,7 @@
 The DisectData subroutine and related code will create a new worksheet for each unique value in the selected column. These new worksheets will contain only the data relative to the unique value. Each workwheet will be given the name of the unique value. 
 
 ## Example
-![Example](/images/example.gif)
+![Example](./images/example.gif)
 
 ## Use
   1. Select a cell in the desired colum. 
